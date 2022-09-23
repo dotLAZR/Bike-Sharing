@@ -21,7 +21,7 @@
 ![Gender/Weekday/Hour](./CitiBike_Resources/Gender_Weekday_Hour.png)
 * Looking at Gender differences we see again men used the majority of the bikes but the hours of peak usage remained the same.
 
-![Users by Weekday](./CitiBike_Resources/Trips_User_Weekday)
+![Users by Weekday](./CitiBike_Resources/Trips_User_Weekday.png)
 * Most of our susbscribers are men using the bikes during the weekdays. (possibly commuting to work)
 
 ### Summary:
